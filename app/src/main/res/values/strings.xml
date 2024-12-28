@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Vocabbly App</string>
+    <string name="splash_screen_motto">Building Vocabulary One Word \nAt A Time</string>
+    <string name="splash_screen_title">Vocabbly</string>
 </resources>
